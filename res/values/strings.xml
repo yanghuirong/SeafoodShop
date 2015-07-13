@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">醴陵水仙海鲜店</string>
+	<string name="iced_seafood">冷冻海鲜</string>
+	<string name="fresh_seafood">新鲜海鲜</string>
+	<string name="dry_seafood">海鲜干货</string>
+	<string name="shopping_cart">查看购物车</string>
+	<string name="contact_us">联系我们</string>
+	<string name="contact_tele">联系电话：0731-22222222</string>
+	<string name="contact_addr">联系地址：湖南省醴陵市</string>
+	<string name="add_iced_seafood">添加</string>
+	<string name="back_home">返回主页</string>	
+	<string name="go_to_shopping_cart">查看购物车</string>
+		
+</resources>
